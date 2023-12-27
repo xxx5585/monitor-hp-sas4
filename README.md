@@ -26,6 +26,6 @@ Donate me: https://paypal.me/xxx55184/
 ## Notes
 * Do not distribute this tool to others. In return, I allow you to share this github link with others.
 * I will not be held responsible if any scandal occurs to you.
-Have a fun gaming life.
+
 
 
