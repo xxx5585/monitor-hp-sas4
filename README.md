@@ -1,6 +1,9 @@
 # Monitor HP tool for SAS4
 This tool displays zombie and player HP in SAS: Zombie Assault 4 (Steam version).
 
+## Video
+https://youtu.be/dYl64dTq1Dc
+
 ## Installation and Usage
 Here's how to install this tool:
 1. Download the 32 bit or 64 bit version from my github.
