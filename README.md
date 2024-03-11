@@ -52,6 +52,9 @@ Unfortunately, this tool is not compatible with mobile.
 * Mouse clicks are transparent
 * Fixed a bug where another character's HP would be displayed when your character is dead
 * Deleted 32 bit versions
+### 20240312
+* Lower CPU usage (e.g. 40% -> 10%)
+* Reduce display flickering
 
 ## Notes
 * Do not distribute this tool to others. In return, I allow you to share this github link with others.
