@@ -1,4 +1,4 @@
-![boss hp and distance](images/image20240201.png?raw=true)
+![boss hp and distance](images/image20240414.png?raw=true)
 
 # Monitor HP tool for SAS4
 This tool displays zombie and player HP in SAS: Zombie Assault 4 (Steam version).
@@ -12,6 +12,7 @@ This tool displays zombie and player HP in SAS: Zombie Assault 4 (Steam version)
 * How to change the display of values: https://youtu.be/cN-XSsi1DRo
 * How many zombies and bosses: https://youtu.be/UIc6GdHZjSc
 * Monitor Boss Type, Elite Type: https://youtu.be/DxWJAc1HWD4
+* Monitor hp tool shows health lists: https://youtu.be/BAVs_Kp1fkk
 
 ## Installation and Usage
 Here's how to install this tool:
@@ -55,6 +56,10 @@ Unfortunately, this tool is not compatible with mobile.
 ### 20240312
 * Lower CPU usage (e.g. 40% -> 10%)
 * Reduce display flickering
+### 20240414
+* Added zombie hp list
+* Added player hp list
+* Not compatible with previous ini file
 
 ## Notes
 * Do not distribute this tool to others. In return, I allow you to share this github link with others.
