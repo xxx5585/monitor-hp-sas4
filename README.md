@@ -60,6 +60,9 @@ Unfortunately, this tool is not compatible with mobile.
 * Added zombie hp list
 * Added player hp list
 * Not compatible with previous ini file
+### 20240905
+* Supported SAS4 version 2.1
+
 
 ## Notes
 * Do not distribute this tool to others. In return, I allow you to share this github link with others.
