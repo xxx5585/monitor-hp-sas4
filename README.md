@@ -25,7 +25,7 @@ That's it.
 
 ## Operating requirements
 The requirements for this tool are as follows:
-* SAS4 version 2.0.2
+* SAS4 version 2.2
 * Windows 64bit version
 
 If SAS4 is updated, this tool will also need to be updated.
@@ -62,6 +62,8 @@ Unfortunately, this tool is not compatible with mobile.
 * Not compatible with previous ini file
 ### 20240905
 * Supported SAS4 version 2.1
+### 20240905
+* Supported SAS4 version 2.2
 
 
 ## Notes
