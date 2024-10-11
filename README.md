@@ -62,7 +62,7 @@ Unfortunately, this tool is not compatible with mobile.
 * Not compatible with previous ini file
 ### 20240905
 * Supported SAS4 version 2.1
-### 20240905
+### 20241010
 * Supported SAS4 version 2.2
 
 
