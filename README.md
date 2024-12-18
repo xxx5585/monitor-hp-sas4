@@ -1,7 +1,7 @@
 ![boss hp and distance](images/image20240414.png?raw=true)
 
 # Monitor HP tool for SAS4
-This tool displays zombie and player HP in SAS: Zombie Assault 4 (Steam version).
+This tool displays zombie and player HP in SAS: Zombie Assault 4 (Steam Windows version).
 
 "SAS: Zombie Assault 4": https://store.steampowered.com/app/678800/SAS_Zombie_Assault_4/
 
@@ -16,16 +16,18 @@ This tool displays zombie and player HP in SAS: Zombie Assault 4 (Steam version)
 
 ## Installation and Usage
 Here's how to install this tool:
-1. Download the latest zip file from my github.
-2. Unzip the zip file.
-3. Run the exe file.
-4. Edit ini file and press `Ctrl-F3` key 2 times
-
+1. If necessaly, disable antivirus scans on your PC.
+1. If necessaly, create a folder and exclude that folder from your antivirus scan.
+1. Download the zip file into that folder
+1. Open the properties of the zip file and check `Unblock`
+1. Unzip the zip file. You will see `monitor_hp.exe` tool and config file `monitor_hp.ini`.
+1. Run the exe file.
+1. Edit ini file and press `Ctrl-F3` key 2 times
 That's it.
 
 ## Operating requirements
 The requirements for this tool are as follows:
-* SAS4 version 2.2
+* SAS4 version 2.2.2
 * Windows 64bit version
 
 If SAS4 is updated, this tool will also need to be updated.
@@ -64,16 +66,17 @@ Unfortunately, this tool is not compatible with mobile.
 * Supported SAS4 version 2.1
 ### 20241010
 * Supported SAS4 version 2.2
+### 20241218
+* Supported SAS4 version 2.2.2
 
 
 ## Notes
-* Do not distribute this tool to others. In return, I allow you to share this github link with others.
-* I will not be held responsible if any scandal occurs to you.
+* Do not distribute this tool to others for security. Instead, share this link with others.
+* I will not be responsible for any damage you may incur.
+* The source code of this tool is not public. Because it is easy to change into a dangerous tool.
 
 ## Donate me
 I provide this tool for free.
-I spent 8 days developing this tool first time.
-So, here is my request to you.
 If you found this tool interesting or useful, donate to me.
 The amount of your donation is up to you.
 Donate me: https://paypal.me/xxx55184/
