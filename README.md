@@ -5,15 +5,6 @@ This tool displays zombie and player HP in SAS: Zombie Assault 4 (Steam Windows 
 
 "SAS: Zombie Assault 4": https://store.steampowered.com/app/678800/SAS_Zombie_Assault_4/
 
-
-## Videos
-* How this tool works: https://youtu.be/TfObv8dxUKc
-* Monitor HP tool release announcement: https://youtu.be/dYl64dTq1Dc
-* How to change the display of values: https://youtu.be/cN-XSsi1DRo
-* How many zombies and bosses: https://youtu.be/UIc6GdHZjSc
-* Monitor Boss Type, Elite Type: https://youtu.be/DxWJAc1HWD4
-* Monitor hp tool shows health lists: https://youtu.be/BAVs_Kp1fkk
-
 ## Installation and Usage
 Here's how to install this tool:
 1. If necessaly, disable antivirus scans on your PC.
